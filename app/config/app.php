@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://localhost',
+	'url' => 'http://laravel.local',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -78,7 +78,7 @@ return array(
 	|
 	*/
 
-	'key' => 'YourSecretKey!!!',
+	'key' => '0yxyXI6rIS2g4T9KU32lROcHiaV2NZaw',
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 
